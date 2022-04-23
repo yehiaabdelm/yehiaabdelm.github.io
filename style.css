@@ -1,5 +1,8 @@
 body{
-  margin:0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
   background: black;
   text-align: center;
   font-family: Helvetica;

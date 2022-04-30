@@ -10,35 +10,32 @@
 
 
 body {
-  font-family: Helvetica;
+  font-family: Arial;
   padding: 20px;
   background: black;
-  font-color: white
+  color: white
+  /* font-color: white */
 }
 
-.myname {
-  /* padding: 30px; */
-  font-size: 40px;
+
+.column {
+  float:left;
   /* text-align: leftcolumn */
-  color: white
+  color: white;
+  width: 30%;
+  padding: 35px
 }
 
-.leftcolumn {
-  float: left;
-  width: 25%;
-  color: white
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-.rightcolumn {
-  float: left;
-  width: 75%;
-  padding-left: 20px;
-  color: white
-}
-
-/* @media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {
+@media screen and (max-width: 900px) {
+  .column {
     width: 100%;
     padding: 0;
   }
-} */
+}

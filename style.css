@@ -2,7 +2,7 @@ body {
   font-family: Arial;
   background: black;
   color: white;
-  font-color: white
+  padding: 20px;
 }
 
 
@@ -23,10 +23,10 @@ body {
     padding: 30px;
     background: black;
     color: white;
-    font-color: white
   }
   .column {
     float:left;
+
   }
   .l {
     color: white;

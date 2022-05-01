@@ -8,25 +8,15 @@ body {
 }
 
 
-.column {
-  width: 100%;
+.row {
+  display: flex;
 }
 
-@media only screen and (min-width:1000px) {
-  .column {
 
-    float: left;
+
+@media only screen and (max-width:750px) {
+  .row {
+    flex-direction: column;
   }
-
-  .left {
-    margin-right: auto;
-    width: 40%;
-  }
-
-  .right {
-    margin-left: auto;
-    width: 60%;
-  }
-
 
 }

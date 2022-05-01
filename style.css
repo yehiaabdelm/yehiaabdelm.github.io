@@ -8,15 +8,28 @@ body {
 }
 
 
-.row {
-  display: flex;
+.column {
+  width: 100%;
 }
 
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
-@media only screen and (max-width:750px) {
-  .row {
-    flex-direction: column;
+@media screen and (min-width:920px) {
+  .column {
+    float:left;
+  }
+  .l {
+    color: white;
+    width: 40%;
+  }
+  .r {
+    color: white;
+    width: 60%;
   }
 
 }

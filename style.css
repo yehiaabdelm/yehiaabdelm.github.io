@@ -26,6 +26,9 @@ body {
 @media screen and (max-width:940px) {
   .column {
     width: 100%;
+    display:block;
     padding: 0;
   }
 }
+
+/* Here's how to create a mobile view in CSS:*/

@@ -1,7 +1,5 @@
-
 body {
   font-family: Arial;
-  padding: 30px;
   background: black;
   color: white;
   font-color: white
@@ -20,6 +18,13 @@ body {
 }
 
 @media screen and (min-width:920px) {
+  body {
+    font-family: Arial;
+    padding: 30px;
+    background: black;
+    color: white;
+    font-color: white
+  }
   .column {
     float:left;
   }

@@ -2,12 +2,15 @@ body {
   font-family: 'IBM Plex Sans', sans-serif;
   background: black;
   color: white;
-  padding: 20px;
+  padding: 40px;
 }
 
 
 .column {
-  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 55%;
+  justify-content: center;
 }
 
 
@@ -17,7 +20,7 @@ body {
   clear: both;
 }
 
-@media screen and (min-width:920px) {
+@media screen and (max-width:920px) {
   body {
     font-family: 'IBM Plex Sans', sans-serif;
     padding: 30px;
@@ -25,16 +28,19 @@ body {
     color: white;
   }
   .column {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
     float:left;
 
   }
-  .l {
+  /* .l {
     color: white;
     width: 40%;
   }
   .r {
     color: white;
     width: 60%;
-  }
+  } */
 
 }

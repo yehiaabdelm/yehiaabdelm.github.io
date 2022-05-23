@@ -1,9 +1,11 @@
 <html></<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
     <meta name="viewport" content="width=device-width">
     <meta charset="utf-8">
     <title>Yehia Abdelmohsen</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,6 +26,38 @@
         <div class="library">
           <h3 style="font-size:200%;">My Library</h3>
           <p style="font-size:80%;">This is where I will provide explanations to remind myself of certain concepts. I'll share them here so you can benefit from them as well.</p>
+          <div id="carousel_body">
+            <div id="wrapper">
+              <div id="carousel">
+                <div id="content">
+                  <img src="eigen.png" class="item"/>
+                </div>
+              </div>
+              <button id="prev">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                >
+                  <path fill="none" d="M0 0h24v24H0V0z" />
+                  <path d="M15.61 7.41L14.2 6l-6 6 6 6 1.41-1.41L11.03 12l4.58-4.59z" />
+                </svg>
+              </button>
+              <button id="next">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                >
+                  <path fill="none" d="M0 0h24v24H0V0z" />
+                  <path d="M10.02 6L8.61 7.41 13.19 12l-4.58 4.59L10.02 18l6-6-6-6z" />
+                </svg>
+              </button>
+            </div>
+          </div>
+          <script src="carousel.js"></script>
         </div>
         <div class="work">
           <h3 style="font-size:200%;">My Work</h3>

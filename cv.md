@@ -56,7 +56,7 @@ _Junior Research Assistant, AUC (Data Science Hub)_, June – August (2020)
 - Handled data from interviews and created visualizations to extract insights
 - Scraped AUC’s faculty directory
 - The work was published, see: [arxiv.org/2104.12558](https://arxiv.org/pdf/2104.12558)
-- [LinkedIn post on research](https://www.linkedin.com/posts/drresearchhub_so-what-is-edupal-it-is-a-smart-knowledge-based-activity-6810930802075959296-STGF/)
+- [LinkedIn post on research](https://www.linkedin.com/posts/dsresearchhub_so-what-is-edupal-it-is-a-smart-knowledge-based-activity-6810930802075959296-STGf/)
 
 **Projects**
 

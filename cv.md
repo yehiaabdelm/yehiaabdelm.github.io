@@ -74,6 +74,9 @@ _Python Workshop_, February 28 and March 7 (2022)
 
 **Languages and Computer Skills**
 
-- I have used the following computer languages: Python, R, C++, Javascript
-- I have used the following frameworks: Sveltekit, NestJS, Flask
-- I can read, write, and speak the following human languages: English and Arabic
+- Computer languages: Python, R, C++, Javascript
+- Frameworks: Sveltekit, NestJS, Flask
+- Cloud services/products to varying degrees
+  - AWS: EC2, ECS, RDS, ECR, S3, Lambda, CloudWatch
+  - Digital Ocean: Droplets, Spaces, Kubernetes, MongoDB
+- Human languages: English and Arabic

@@ -10,6 +10,7 @@ My background includes experience and skills in various areas, including but not
 _Bachelor of Science in Data Science - The American University in Cairo_, September (2019) – June (2024)
 
 - GPA: 3.679
+- Major GPA: 3.757
 - Relevant coursework: Fundamentals of Data Science (I & II), Data Visualization, Fundamentals of Simulation, Applied Regression Methods, Analysis of Multivariate Data, Advanced Machine Learning, Optimization (I & II), Data Structures and Algorithms, Analysis and Design of Algorithms, Fundamentals of Database Systems
 
 _American Diploma - International School of Choueifat, Cairo, Egypt_, June (2019)
